@@ -5,6 +5,8 @@ This repo contains links for learning resources and code for new skill developme
 ## Personal Branding
 [Complete Guide to Building Your Personal Brand](https://www.quicksprout.com/the-complete-guide-to-building-your-personal-brand/)
 
+[Storytelling, Personal Branding, and Getting Hired](http://blog.udacity.com/2015/12/storytelling-personal-branding-and-getting-hired.html)
+
 [Master the Javascript Interview: Soft Skills](https://medium.com/javascript-scene/master-the-javascript-interview-soft-skills-a8a5fb02c466)
 
 ## MySQL
