@@ -2,6 +2,11 @@
 
 This repo contains links for learning resources and code for new skill development and experimentation.
 
+## Personal Branding
+[Complete Guide to Building Your Personal Brand](https://www.quicksprout.com/the-complete-guide-to-building-your-personal-brand/)
+
+[Master the Javascript Interview: Soft Skills](https://medium.com/javascript-scene/master-the-javascript-interview-soft-skills-a8a5fb02c466)
+
 ## MySQL
 
 ### Certifications
