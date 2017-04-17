@@ -26,6 +26,10 @@ This repo contains links for learning resources and code for new skill developme
 ### Certifications
 [Learn to Program and Analyze Data with Python](https://www.coursera.org/specializations/python)
 
+## Javascript
+
+[Eloquent Javascript](http://eloquentjavascript.net/)
+
 ## General Programming Challenges
 
 These are links to websites that contain programming challenges that are useful for practice for general programming and interviews.
