@@ -16,6 +16,10 @@ This repo contains links for learning resources and code for new skill developme
 
 [Oracle MySQL Certification](https://education.oracle.com/pls/web_prod-plq-dad/db_pages.getpage?page_id=654&get_params=p_id:259&p_org_id=1001&lang=US#tabs-1)
 
+### Learning
+
+[CodeAcademy - Learn SQL](https://www.codecademy.com/learn/learn-sql)
+
 ## Selenium
 
 ### General Info
