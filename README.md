@@ -9,6 +9,8 @@ This repo contains links for learning resources and code for new skill developme
 
 [Master the Javascript Interview: Soft Skills](https://medium.com/javascript-scene/master-the-javascript-interview-soft-skills-a8a5fb02c466)
 
+[How to Interview as the Developer Candidate](https://medium.com/@djsmith42/how-to-interview-as-a-developer-candidate-b666734f12dd)
+
 ## MySQL
 
 ### Certifications
