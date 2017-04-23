@@ -57,6 +57,9 @@ These are links to websites that contain programming challenges that are useful 
 
 [Udemy](https://www.udemy.com/)
 
+## Free Books
+[PacktPub Daily Free Book](https://www.packtpub.com/packt/offers/free-learning) 
+
 ## Tools
 
 ### Vim
