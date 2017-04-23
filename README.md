@@ -11,7 +11,7 @@ This repo contains links for learning resources and code for new skill developme
 
 [How to Interview as the Developer Candidate](https://medium.com/@djsmith42/how-to-interview-as-a-developer-candidate-b666734f12dd)
 
-## MySQL
+## SQL
 
 ### Certifications
 [MySQL Official Certification](https://www.mysql.com/certification/)
@@ -21,6 +21,8 @@ This repo contains links for learning resources and code for new skill developme
 ### Learning
 
 [CodeAcademy - Learn SQL](https://www.codecademy.com/learn/learn-sql)
+
+[Udemy - Intro to Relational Databases](https://www.udacity.com/course/intro-to-relational-databases--ud197)
 
 ## Selenium
 
