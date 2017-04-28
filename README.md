@@ -62,6 +62,9 @@ These are links to websites that contain programming challenges that are useful 
 
 [Udemy](https://www.udemy.com/)
 
+## Bootcamps
+[SQA Solution (San Francisco)](http://www.bootcamps.in/san-francisco/sqa-solution/)
+
 ## Free Books
 [PacktPub Daily Free Book](https://www.packtpub.com/packt/offers/free-learning) 
 
