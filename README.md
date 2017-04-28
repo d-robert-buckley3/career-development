@@ -29,6 +29,9 @@ This repo contains links for learning resources and code for new skill developme
 ### General Info
 [Quora - Selenium Certification?](https://www.quora.com/Automated-Testing-Is-there-any-world-wide-accepted-certification-for-Selenium)
 
+### Tutorials
+[TutorialsPoint Selenium Tutorial](http://www.tutorialspoint.com/selenium/)
+
 ## Python
 
 ### Certifications
