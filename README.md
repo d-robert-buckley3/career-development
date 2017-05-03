@@ -31,6 +31,7 @@ This repo contains links for learning resources and code for new skill developme
 
 ### Tutorials
 [TutorialsPoint Selenium Tutorial](http://www.tutorialspoint.com/selenium/)
+
 [Read The Docs - Selenium Python Bindings](http://selenium-python.readthedocs.io/installation.html)
 
 ## Python
