@@ -62,6 +62,8 @@ These are links to websites that contain programming challenges that are useful 
 
 [Udacity](https://www.udacity.com/)
 
+[Udacity CS101](https://classroom.udacity.com/courses/cs101)
+
 [Udemy](https://www.udemy.com/)
 
 ## Bootcamps
