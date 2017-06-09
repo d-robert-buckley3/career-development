@@ -55,6 +55,10 @@ These are links to websites that contain programming challenges that are useful 
 
 [ProjectEuler.net](https://projecteuler.net/)
 
+[RegExCrossword.com](https://regexcrossword.com/)
+
+[RegExper](https://regexper.com)
+
 ## Massive Open Online Courses (MOOCs)
 [Coursera](https://www.coursera.org/)
 
